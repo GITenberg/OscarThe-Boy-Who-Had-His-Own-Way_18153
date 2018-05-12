@@ -1,0 +1,34 @@
+_repo: OscarThe-Boy-Who-Had-His-Own-Way_18153
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aimwell, Walter
+    alias: Simonds, William
+    birthdate: 1822
+    deathdate: 1859
+    gutenberg_agent_id: '7840'
+    url: http://www.gutenberg.org/2009/agents/7840
+    wikipedia: http://en.wikipedia.org/wiki/William_Simonds
+description: ''
+gutenberg_issued: '2006-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Boston (Mass.) -- Juvenile fiction'
+- !lcsh 'Obedience -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+title: 'Oscar
+
+  The Boy Who Had His Own Way'
+url: http://www.gutenberg.org/ebooks/18153
